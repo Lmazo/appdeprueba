@@ -14,3 +14,7 @@
 
 **info personal
 [![LinkedIn](https://img.freepik.com/vector-premium/cono-aplicacion-linkedin-red-profesional-mas-grande-mundo-redes-sociales-trabajos-carreras_277909-476.jpg)](https://www.linkedin.com/in/luisa-fernanda-mazo-perez-815b5b248/)
+
+<a href="https://www.linkedin.com/in/luisa-fernanda-mazo-perez-815b5b248/">
+  <img src="https://img.freepik.com/vector-premium/cono-aplicacion-linkedin-red-profesional-mas-grande-mundo-redes-sociales-trabajos-carreras_277909-476.jpg" alt="LinkedIn" style="width: 30px; height: auto;">
+</a>
