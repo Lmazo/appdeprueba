@@ -13,3 +13,4 @@
 - **Geopandas:** Creación de mapas interactivos que muestran la calidad del aire en diferentes ubicaciones.
 
 info personal
+[![LinkedIn]([https://image-url.com/button-image.png](https://img.freepik.com/vector-premium/cono-aplicacion-linkedin-red-profesional-mas-grande-mundo-redes-sociales-trabajos-carreras_277909-476.jpg))]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/luisa-fernanda-mazo-perez-815b5b248/))
