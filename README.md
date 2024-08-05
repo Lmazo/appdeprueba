@@ -12,5 +12,5 @@
 - **Scipy:** Análisis predictivo para estimar los niveles futuros de contaminación y su posible impacto.
 - **Geopandas:** Creación de mapas interactivos que muestran la calidad del aire en diferentes ubicaciones.
 
-info personal
-[![LinkedIn]([https://image-url.com/button-image.png](https://img.freepik.com/vector-premium/cono-aplicacion-linkedin-red-profesional-mas-grande-mundo-redes-sociales-trabajos-carreras_277909-476.jpg))]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/luisa-fernanda-mazo-perez-815b5b248/))
+**info personal
+[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/480/original/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/tu-perfil)
